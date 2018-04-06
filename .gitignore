@@ -4,5 +4,4 @@
 *.db
 *.pyc
 privatesettings.py
-subreddits.py
 zedrem
